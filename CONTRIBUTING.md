@@ -35,10 +35,8 @@ Before contributing, please take a moment to review these guidelines. Contributi
    ```bash
    npm install
    npm run dev
-<video autoplay muted loop playsinline style="width: 100%; max-width: 600px;">
-  <source src="cli.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![CLI Demo](cli.gif)
+
 
 <br>
 
