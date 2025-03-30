@@ -29,12 +29,14 @@ Before contributing, please take a moment to review these guidelines. Contributi
    ```bash
    git clone https://github.com/<your-username>/SequriQuest.git
    cd SequriQuest
+   ```
 
 3. **Running the Project**
     - Ensure you have Node.js installed.
    ```bash
    npm install
    npm run dev
+   ```
 ![CLI Demo](cli.gif)
 
 
