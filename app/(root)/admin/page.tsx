@@ -82,7 +82,7 @@ export default function AdminPanel() {
   };
 
   return (
-    <div className="p-6 bg-black text-green-400 font-mono">
+    <div className="bg-black text-green-400 border-b border-green-600 shadow-lg">
       <Navbar />
       <h1 className="text-2xl border-b border-green-600 mb-4">Admin Panel</h1>
       {error && <p className="text-red-500">{error}</p>}
