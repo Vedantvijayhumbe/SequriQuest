@@ -1,6 +1,8 @@
 # Contributing to SEQURIQUEST_
 
-Thank you for considering contributing to SEQURIQUEST_! Your feedback, bug reports, and code contributions help make our CTF platform more engaging and robust. Below are some guidelines to help you get started.
+Thank you for considering contributing to SEQURIQUEST_! Whether you're reporting a bug, suggesting an enhancement, or contributing code, your efforts help make our CTF platform more engaging and robust.
+
+Below are some guidelines to help you get started smoothly. 💡
 
 ---
 
@@ -40,7 +42,6 @@ Before contributing, please take a moment to review these guidelines. Contributi
 ![CLI Demo](cli.gif)
 
 
-<br>
 
 
 - Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
@@ -77,6 +78,24 @@ Before contributing, please take a moment to review these guidelines. Contributi
   Create a new branch for each feature or bug fix:
   ```bash
   git checkout -b feature/your-feature-name
+  ```
+
+- **Commit and Push:**  
+  Make Your Changes & Commit and Push to Your Fork:
+  ```bash
+  git commit -m "Commit message"
+  git push origin feature/your-feature-name
+  ```
+
+- **Create a Pull Request (PR)**
+  Go to the original repository and open a pull request from your fork:
+
+>⚠️ Reminder: Regularly sync your branch with the main repository to avoid merge conflicts.
+> ```bash
+>git fetch upstream
+>git merge upstream/main  
+>```
+>Resolve any conflicts before pushing your changes again.
 
 
 ## Code of Conduct

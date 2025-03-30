@@ -37,7 +37,7 @@
 
 Dive into a world where each challenge unravels a unique mystery, requiring you to apply various techniques and tools to uncover hidden information. Compete with fellow hackers, climb the leaderboard, and showcase your prowess in the realm of cybersecurity.
 
-<img src="Home.png"></img>
+<img src="Home.png" alt="Screenshot of SEQURIQUEST_ home page"></img>
 
 ## Features
 
@@ -72,10 +72,9 @@ Dive into a world where each challenge unravels a unique mystery, requiring you 
 
 We've poured our passion into building SEQURIQUEST_, While we've worked hard to create engaging challenges and a seamless experience, our journey doesn't stop here—you are a vital part of our evolution.
 
-> [!NOTE]  
-> Whether you have suggestions for new challenges, have encountered any bugs, or want to share ideas to enhance the experience, we're eager to hear from you. Your insights help us refine SEQURIQUEST_ and ensure it remains both challenging and fun..
+> Whether you have suggestions for new challenges, have encountered any bugs, or want to share ideas to enhance the experience, we're eager to hear from you. Your insights help us refine SEQURIQUEST_ and ensure it remains both challenging and fun.
 
-Please feel free to contribute by [submitting an issue](https://github.com/iiitl/SequriQuest/issues) or joining the discussions. Each contribution helps us grow and improve.
+You are encouraged to contribute by [submitting an issue](https://github.com/iiitl/SequriQuest/issues) or joining the discussions. Each contribution helps us grow and improve.
 
 For details on how you can contribute, please check out our <a href="CONTRIBUTING.md" style="color: #FF4500; font-weight: bold;">CONTRIBUTING.md</a>.
 
@@ -88,7 +87,7 @@ Special thanks to all contributors for making this project a success
 **Our amazing contributors**:
 
 <a href="https://github.com/iiitl/SequriQuest/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=iiitl/SequriQuest" />
+  <img src="https://contrib.rocks/image?repo=iiitl/SequriQuest" alt="Graphical summary of project contributors"/>
 </a>
 
 ---
