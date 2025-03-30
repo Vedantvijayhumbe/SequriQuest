@@ -6,6 +6,8 @@ import Navbar from "@/components/Navbar";
  import {  useState } from "react";
 
 
+ 
+
 interface Challenge {
   id: number;
   title: string;
@@ -42,6 +44,8 @@ export default function AdminPanel() {
   const [loading, setLoading] = useState(false);
   const [success, setSuccess] = useState<string | null>(null);
     
+
+  
   const validateForm = () => {
     if (!form.title || !form.description || !form.points || !form.category || !form.hint) {
       setError("All fields are required.");
@@ -82,6 +86,8 @@ export default function AdminPanel() {
   };
 
   return (
+
+   
     <div className="bg-black text-green-400 border-b border-green-600 shadow-lg">
       <Navbar />
       <h1 className="text-2xl border-b border-green-600 mb-4">Admin Panel</h1>
