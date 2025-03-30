@@ -1,6 +1,6 @@
-# Contributing to SEQURIQUEST_
+# Contributing to SEQURIQUEST
 
-Thank you for considering contributing to SEQURIQUEST_! Whether you're reporting a bug, suggesting an enhancement, or contributing code, your efforts help make our CTF platform more engaging and robust.
+Thank you for considering contributing to SEQURIQUEST! Whether you're reporting a bug, suggesting an enhancement, or contributing code, your efforts help make our CTF platform more engaging and robust.
 
 Below are some guidelines to help you get started smoothly. 💡
 
@@ -25,7 +25,7 @@ Before contributing, please take a moment to review these guidelines. Contributi
 ## Development Environment Setup
 
 1. **Fork the Repository:**
-   - Click the "Fork" button at the top-right of the repository page to create your copy of SEQURIQUEST_.
+   - Click the "Fork" button at the top-right of the repository page to create your copy of SEQURIQUEST.
 
 2. **Clone Your Fork:**
    ```bash
