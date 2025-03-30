@@ -1,7 +1,7 @@
 <span align="right" style="color: #32CD32; font-family: 'Geist Mono', 'Geist Mono Fallback';">
   SEQURI
 </span>
-<span align="right" style="color: #fffff; font-family: 'Geist Mono', 'Geist Mono Fallback';">
+<span align="right" style="color: #ffffff; font-family: 'Geist Mono', 'Geist Mono Fallback';">
   QUEST
 </span>
 <span align="right" style="color: #32CD32; font-family: 'Geist Mono', 'Geist Mono Fallback';">
@@ -41,7 +41,7 @@ Dive into a world where each challenge unravels a unique mystery, requiring you 
 
 💡 **Want to contribute?** Check out our [CONTRIBUTING.md](CONTRIBUTING.md) to get started!
 
-<img src="Home.png" alt="Screenshot of SEQURIQUEST_ home page"></img>
+<img src="Home.png" alt="Screenshot of SEQURIQUEST_ home page"/>
 
 ## Features
 
