@@ -33,9 +33,13 @@
 
 
 ## 🚀 About 
-**SEQURIQUEST_** is an immersive Capture The Flag (CTF) platform designed to challenge and expand your knowledge in computer forensics. Whether you're a seasoned hacker or new to the field, SEQURIQUEST_ offers a series of meticulously crafted challenges that simulate real-world scenarios, pushing you to think critically and enhance your problem-solving skills.
+**SEQURIQUEST_** is an **open-source** immersive Capture The Flag (CTF) platform designed to challenge and expand your knowledge in computer forensics. Whether you're a seasoned hacker or new to the field, SEQURIQUEST_ offers a series of meticulously crafted challenges that simulate real-world scenarios, pushing you to think critically and enhance your problem-solving skills.
+
+🔓 Being **open-source**, SEQURIQUEST_ thrives on community contributions, making it an evolving and dynamic platform for learning and competition.
 
 Dive into a world where each challenge unravels a unique mystery, requiring you to apply various techniques and tools to uncover hidden information. Compete with fellow hackers, climb the leaderboard, and showcase your prowess in the realm of cybersecurity.
+
+💡 **Want to contribute?** Check out our [CONTRIBUTING.md](CONTRIBUTING.md) to get started!
 
 <img src="Home.png" alt="Screenshot of SEQURIQUEST_ home page"></img>
 
